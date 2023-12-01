@@ -73,6 +73,6 @@ Contribuições são bem-vindas. Abra uma issue ou envie um pull request para me
 
 ## Licença
 
-Este projeto está sob licença [INSERIR NOME DA LICENÇA]. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está sob licença MIT License. Consulte o arquivo LICENSE para mais detalhes.
 
 ---
