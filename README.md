@@ -1,4 +1,4 @@
-# README.md para o Projeto de Autenticação com Números de Telefone
+# Autenticação com Números de Telefone
 
 ## Descrição do Projeto
 
