@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Argentina",
+    "dialCode": "+54",
+    "someNumber": 10,
+    "format": "### ###-####"
+  },
+  {
+    "name": "Bolívia",
+    "dialCode": "+591",
+    "someNumber": 8,
+    "format": "##-######"
+  },
+  {
+    "name": "Brasil",
+    "dialCode": "+55",
+    "someNumber": 11,
+    "format": "(##) #####-####"
+  },
+  {
+    "name": "Chile",
+    "dialCode": "+56",
+    "someNumber": 9,
+    "format": "# ####-####"
+  },
+  {
+    "name": "Colômbia",
+    "dialCode": "+57",
+    "someNumber": 10,
+    "format": "# ###-####"
+  },
+  {
+    "name": "Equador",
+    "dialCode": "+593",
+    "someNumber": 9,
+    "format": "## ###-####"
+  },
+  {
+    "name": "Guiana",
+    "dialCode": "+592",
+    "someNumber": 7,
+    "format": "###-####"
+  },
+  {
+    "name": "Guiana Francesa",
+    "dialCode": "+594",
+    "someNumber": 9,
+    "format": "### ##-##"
+  },
+  {
+    "name": "Paraguai",
+    "dialCode": "+595",
+    "someNumber": 9,
+    "format": "###-###-###"
+  },
+  {
+    "name": "Peru",
+    "dialCode": "+51",
+    "someNumber": 9,
+    "format": "###-###-###"
+  },
+  {
+    "name": "Suriname",
+    "dialCode": "+597",
+    "someNumber": 7,
+    "format": "###-####"
+  },
+  {
+    "name": "Uruguai",
+    "dialCode": "+598",
+    "someNumber": 9,
+    "format": "# ###-####"
+  },
+  {
+    "name": "Venezuela",
+    "dialCode": "+58",
+    "someNumber": 10,
+    "format": "###-###-####"
+  }
+]
